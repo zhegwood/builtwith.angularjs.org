@@ -2,6 +2,23 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "The Dealio",
+    "thumb": "the-dealio/thumb.png",
+    "desc": "A place for businesses to run flash deals, promotions, coupons, or whatever, and a place for people to find these deals.",
+    "url": "https://www.the-dealio.com",
+    "submitter": "zhegwood",
+    "submissionDate": "2015-08-23",
+    "tags": [
+      "Flash Deals",
+      "Promotions",
+      "AngularJS",
+      "Phalcon PHP",
+      "BootStrap",
+      "LESS",
+      "Google Maps"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
